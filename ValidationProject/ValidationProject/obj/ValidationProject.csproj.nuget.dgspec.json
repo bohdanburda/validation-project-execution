@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Data\\Investigations\\GenerativeAI\\validation-project-execution\\ValidationProject\\ValidationProject\\ValidationProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Data\\Investigations\\GenerativeAI\\validation-project-execution\\ValidationProject\\ValidationProject\\ValidationProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Data\\Investigations\\GenerativeAI\\validation-project-execution\\ValidationProject\\ValidationProject\\ValidationProject.csproj",
+        "projectName": "ValidationProject",
+        "projectPath": "C:\\Data\\Investigations\\GenerativeAI\\validation-project-execution\\ValidationProject\\ValidationProject\\ValidationProject.csproj",
+        "packagesPath": "C:\\Users\\bburd\\.nuget\\packages\\",
+        "outputPath": "C:\\Data\\Investigations\\GenerativeAI\\validation-project-execution\\ValidationProject\\ValidationProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bburd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sisfirst/_packaging/SISInternal/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

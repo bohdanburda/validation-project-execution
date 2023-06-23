@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7LA/lbpliYF2MIJOzqv1QxZipcJYHUmrK4p+eoxhxX6y5+zPZXw/EB+9CeLnKYeCWSc/zDCDC+Tf/puWIUWdrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Data\\Investigations\\GenerativeAI\\validation-project-execution\\ValidationProject\\ValidationProject\\ValidationProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bburd\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

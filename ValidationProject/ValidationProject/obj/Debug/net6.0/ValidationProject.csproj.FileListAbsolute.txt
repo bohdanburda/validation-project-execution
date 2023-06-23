@@ -1,0 +1,17 @@
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\bin\Debug\net6.0\ValidationProject.exe
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\bin\Debug\net6.0\ValidationProject.deps.json
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\bin\Debug\net6.0\ValidationProject.runtimeconfig.json
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\bin\Debug\net6.0\ValidationProject.dll
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\bin\Debug\net6.0\ValidationProject.pdb
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\bin\Debug\net6.0\Bogus.dll
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ValidationProject.csproj.AssemblyReference.cache
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ValidationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ValidationProject.AssemblyInfoInputs.cache
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ValidationProject.AssemblyInfo.cs
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ValidationProject.csproj.CoreCompileInputs.cache
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ValidationProject.csproj.CopyComplete
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ValidationProject.dll
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\refint\ValidationProject.dll
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ValidationProject.pdb
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ValidationProject.genruntimeconfig.cache
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ref\ValidationProject.dll
