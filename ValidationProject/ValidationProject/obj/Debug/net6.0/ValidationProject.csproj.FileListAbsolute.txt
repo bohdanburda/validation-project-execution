@@ -15,3 +15,4 @@ C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProje
 C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ValidationProject.pdb
 C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ValidationProject.genruntimeconfig.cache
 C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\obj\Debug\net6.0\ref\ValidationProject.dll
+C:\Data\Investigations\GenerativeAI\validation-project-execution\ValidationProject\ValidationProject\bin\Debug\net6.0\CsvHelper.dll

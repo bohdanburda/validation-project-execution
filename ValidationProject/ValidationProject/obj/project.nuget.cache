@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7LA/lbpliYF2MIJOzqv1QxZipcJYHUmrK4p+eoxhxX6y5+zPZXw/EB+9CeLnKYeCWSc/zDCDC+Tf/puWIUWdrQ==",
+  "dgSpecHash": "lCfZw+yP/PgsBy2HgOzUtWCUmWq1ky+K3mWdIQj6HMyHHWlaBQ8D8Nnh27bXH68vIo7uBEqXwS3/YJhL7ANw1g==",
   "success": true,
   "projectFilePath": "C:\\Data\\Investigations\\GenerativeAI\\validation-project-execution\\ValidationProject\\ValidationProject\\ValidationProject.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bburd\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+    "C:\\Users\\bburd\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\bburd\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
   ],
   "logs": []
 }
